@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there - I'm Anastasia Samsonova 👋
 
-<!--
-**ana31s/ana31s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm enthusiastic Data Scientist with experience in International Clinical Trials
+- 🎓 I studied Medicine at Uni so I have proficiency in this field too 
+- 🔭 I’m currently working at ICON plc x Novo Nordisk
+- 🌱 And learning Math for Data Analysis at Yandex Practicum
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, PostgreSQL, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, LightGBM, CarBoost, PyTorch
+
+## Reach me out
+
+[LinkedIn](https://www.linkedin.com/in/anastasia-samsonova-404740216/)
+[Telegram](https://t.me/ana67s)
+[Instagram](https://www.instagram.com/anastasia.sam_?igsh=eWp3bnNydHNnamxv&utm_source=qr)
