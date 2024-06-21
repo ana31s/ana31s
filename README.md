@@ -11,7 +11,7 @@ Python, PostgreSQL, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Te
 
 ## Reach me out
 
-[![LinkedIn](https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/)](https://www.linkedin.com/in/anastasia-samsonova-404740216/)
+[![LinkedIn](https://img.icons8.com/?size=100&id=3869&format=png&color=000000)](https://www.linkedin.com/in/anastasia-samsonova-404740216/)
 [![Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/ana67s)
 
 [Telegram](https://t.me/ana67s)
