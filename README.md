@@ -11,9 +11,6 @@ Python, PostgreSQL, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Te
 
 ## Reach me out
 
-[![LinkedIn](https://img.icons8.com/?size=100&id=3869&format=png&color=000000)](https://www.linkedin.com/in/anastasia-samsonova-404740216/)
-[![Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/ana67s)
-
-[Telegram](https://t.me/ana67s)
-
-[Instagram](https://www.instagram.com/anastasia.sam_?igsh=eWp3bnNydHNnamxv&utm_source=qr)
+[![LinkedIn](https://img.icons8.com/?size=100&id=446&format=png&color=000000)](https://www.linkedin.com/in/anastasia-samsonova-404740216/)
+[![Telegram](https://img.icons8.com/?size=100&id=103888&format=png&color=000000)](https://t.me/ana67s)
+[![Instagram](https://img.icons8.com/?size=100&id=32320&format=png&color=000000)](https://www.instagram.com/anastasia.sam_?igsh=eWp3bnNydHNnamxv&utm_source=qr)
