@@ -7,7 +7,7 @@
 
 ## Tech Stack
 
-Python, PostgreSQL, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, LightGBM, CarBoost, PyTorch
+Python, PostgreSQL, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, LightGBM, CatBoost, PyTorch
 
 ## Reach me out
 
