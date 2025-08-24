@@ -1,13 +1,13 @@
 ## Hi there - I'm Anastasia Samsonova 👋
 
-- 💻 I'm enthusiastic Data Scientist with experience in International Clinical Trials
+- 💻 I'm enthusiastic Data Scientist with experience in International Clinical Trials (ICON plc x Novo Nordisk)
 - 🎓 I studied Medicine at Uni so I have proficiency in this field too 
-- 🔭 I’m currently working at ICON plc x Novo Nordisk
-- 🌱 And learning Math for Data Analysis at Yandex Practicum
+- 🔭 I’m currently working as BI Analyst at Haleon (former GSK Consumer Healthcare)
+- 🌱 And getting Master's Degree in Health Informatics at Vita-Salute San Raffaele University
 
 ## Tech Stack
 
-Python, PostgreSQL, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, LightGBM, CatBoost, PyTorch
+Power BI, Python, MSSQL, PostgreSQL, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, LightGBM, CatBoost, PyTorch, BERT, Ultralytics
 
 ## Reach me out
 
