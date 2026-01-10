@@ -1,6 +1,6 @@
 ## Hi there - I'm Anastasiia Samsonova 👋
 
-- 💻 I'm enthusiastic Data Scientist with experience in International Clinical Trials (ICON plc x Novo Nordisk) and in Business Analysis (Haleon)
+- 💻 I'm enthusiastic Data Scientist with experience in International Clinical Trials (ICON plc x Novo Nordisk) and in Business Analytics (Haleon)
 - 🎓 I studied Pharmacy at Uni so I have proficiency in this field too 
 - 🌱 And pursuing Master's Degree in Health Informatics at Politecnico di Milano x Vita-Salute San Raffaele University
 
